@@ -1,5 +1,22 @@
 # 2023_Hadoop_Pig
-<h3>작성자:이영직</h3>
+<h2>기여자 (Contributors) ✨</h2>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lee-young-jik">
+        <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>Lee Young Jik</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
+    </td>
+   <tr/>
+   
+</table>
+
 <hr/>
 <img width="80%" src=https://github.com/lee-young-jik/2023_Hadoop_Pig/assets/91588673/40288e0c-6e11-4e82-930e-4d6d3de1d8e0"/>
 <hr/>
