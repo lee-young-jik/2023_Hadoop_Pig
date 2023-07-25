@@ -1,8 +1,9 @@
 # 2023_Hadoop_Pig
 <h3>작성자:이영직</h3>
 <hr/>
-<img width="80%" src="https://github.com/lee-young-jik/2023_Hadoop_Pig/assets/91588673/b9ed06ca-1741-4580-a125-234e9cd3f06c"/>
+<img width="80%" src=https://github.com/lee-young-jik/2023_Hadoop_Pig/assets/91588673/40288e0c-6e11-4e82-930e-4d6d3de1d8e0"/>
 <hr/>
+
 
 
 <h3>목적</h3>
