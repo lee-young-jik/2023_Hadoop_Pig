@@ -6,7 +6,7 @@
 
 
 <h3>참고 사이트</h3>
-https://redhorse046.tistory.com/15
-https://sks8410.tistory.com/48
-https://www.kaggle.com/datasets/zhijinzhai/loandata
+<div>https://redhorse046.tistory.com/15</div>
+<div>https://sks8410.tistory.com/48</div>
+<div>https://www.kaggle.com/datasets/zhijinzhai/loandata</div>
 
